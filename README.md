@@ -1,5 +1,9 @@
 
-# Hello there! I'm Ali Ashraf 😁
+# 👋 Hi, I'm Ali Ashraf
+
+🎓 Junior at the Faculty of Computer Science and Information Systems, Ain Shams University  
+💡 Passionate about software engineering, artificial intelligence, and modern web development  
+🚀 Actively building intelligent systems and full-stack applications that solve real-world problems  
 
 ## 🌐 Connect with me:
 
