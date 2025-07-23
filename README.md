@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ali Ashraf
 
-🎓 Junior at the Faculty of Computer Science and Information Systems, Ain Shams University  
+🎓 Senior at the Faculty of Computer Science and Information Systems, Ain Shams University  
 💡 Passionate about software engineering, artificial intelligence, and modern web development  
 🚀 Actively building intelligent systems and full-stack applications that solve real-world problems  
 
@@ -71,7 +71,8 @@
 
 ### 🛢️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge" alt="PL/SQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
@@ -112,3 +113,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alinist&layout=compact&theme=github_dark&langs_count=8&hide=html,css)](https://github.com/Alinist)
 
+
+## 📈 GitHub Activity Dashboard
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alinist&show_icons=true&theme=default)
+
+---
+
+## 💡 Interests
+
+- Clean Code & Best Practices
+- Back-End Engineering
+- Database Architecture
+- Data-Driven Applications
+
+---
+
+> _“Clean code is like a masterpiece — every line has purpose.” — Ali Ashraf_
