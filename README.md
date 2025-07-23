@@ -117,6 +117,7 @@
 ## 📈 GitHub Activity Dashboard
 
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alinist&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alinist&theme=default)
 
 ---
 
